@@ -1,0 +1,6 @@
+framework module cordova_plugin_vibration {
+  umbrella header "cordova-plugin-vibration-umbrella.h"
+
+  export *
+  module * { export * }
+}

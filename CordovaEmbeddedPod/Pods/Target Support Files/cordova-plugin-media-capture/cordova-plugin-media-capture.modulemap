@@ -1,0 +1,6 @@
+framework module cordova_plugin_media_capture {
+  umbrella header "cordova-plugin-media-capture-umbrella.h"
+
+  export *
+  module * { export * }
+}

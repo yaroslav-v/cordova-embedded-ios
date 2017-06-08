@@ -1,0 +1,6 @@
+framework module cordova_plugin_splashscreen {
+  umbrella header "cordova-plugin-splashscreen-umbrella.h"
+
+  export *
+  module * { export * }
+}

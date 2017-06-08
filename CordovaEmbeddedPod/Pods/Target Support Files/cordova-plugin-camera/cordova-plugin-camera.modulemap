@@ -1,0 +1,6 @@
+framework module cordova_plugin_camera {
+  umbrella header "cordova-plugin-camera-umbrella.h"
+
+  export *
+  module * { export * }
+}

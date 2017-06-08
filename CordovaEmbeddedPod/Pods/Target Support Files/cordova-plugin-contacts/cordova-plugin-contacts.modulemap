@@ -1,0 +1,6 @@
+framework module cordova_plugin_contacts {
+  umbrella header "cordova-plugin-contacts-umbrella.h"
+
+  export *
+  module * { export * }
+}

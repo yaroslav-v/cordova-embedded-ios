@@ -1,0 +1,6 @@
+framework module cordova_plugin_file_transfer {
+  umbrella header "cordova-plugin-file-transfer-umbrella.h"
+
+  export *
+  module * { export * }
+}

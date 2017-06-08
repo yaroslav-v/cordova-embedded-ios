@@ -1,0 +1,6 @@
+framework module cordova_plugin_statusbar {
+  umbrella header "cordova-plugin-statusbar-umbrella.h"
+
+  export *
+  module * { export * }
+}

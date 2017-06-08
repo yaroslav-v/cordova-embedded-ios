@@ -1,0 +1,6 @@
+framework module cordova_plugin_inappbrowser {
+  umbrella header "cordova-plugin-inappbrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
